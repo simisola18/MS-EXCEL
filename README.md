@@ -1,2 +1,21 @@
 # MS-EXCEL
 A respository of different analysis done using MS EXCEL
+# 1. An Analysis of Hospital Emergency Room Using Excel
+The aim of this analysis is to create a visualization dashboard using the dataset given to create insights.
+Pivot Tables were used in the creation of the Dashboard. The dataset was cleaned by using Excel functions. 
+The Analysis shows the total number of patients that were attended to at the Hospital between the month of April 2019 and the month of October 2020, The Dashboard was used to analyze and visualize.
+1-Ethnic Composition of Patients.
+2-Sum of patient gender
+3-Monthly count of Department referrals.
+4-Sum of patients against departments referred.
+5-Sum of patient's sat score.
+
+Also outlined were:
+1-Total number of patients.
+2-Average Patient wait time.
+3-Total number of female patients.
+4-Total number of male patients.
+5-Average Patient Age
+Key Insights Generated from this Analysis includes: Whites were the most admitted race in the Hospital ER with 27.90%, followed closely behind by the African Americans at 21.17% of the population while the least admitted race were the Native Americans at 5.40%. 
+It could also be noted that the Male gender had more admissions than the female gender in the ER. There was an average waiting time of 35 minutes across all departments, measures should be taken to reduce the wait timein order to avoid complications.
+Also regular reviews of Procedures,trainings and monthly assessment of staff should be done.
