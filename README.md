@@ -28,6 +28,7 @@ Dataset was provided by Quantum Analytics, the data was cleaned, processed and p
 The analysis was for the time period of 2018 to 2019 across four regions and we aimed to find out quarterly sales trend, highest retailer sales, highest product sold.
 
 # Dashboard
+![image](https://github.com/user-attachments/assets/f7062345-5c7e-40cb-9d91-aa40f9b21541)
 Insights generated revealed:
 1. A total of 4 regions were analyzed, 2000 customers, 20 companies in the region with 8 sales persons and a total of 5 products being sold
 2. Total Profit made was $2,028,591 and Arizona region had the highest orders and profits generated
