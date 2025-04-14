@@ -16,6 +16,10 @@ Also outlined were:
 3-Total number of female patients.
 4-Total number of male patients.
 5-Average Patient Age
+
+# Dashboard
+![image](https://github.com/user-attachments/assets/ddf26c8e-bee4-44aa-8cc1-4fbb1dc545b9)
+
 Key Insights Generated from this Analysis includes: Whites were the most admitted race in the Hospital ER with 27.90%, followed closely behind by the African Americans at 21.17% of the population while the least admitted race were the Native Americans at 5.40%. 
 It could also be noted that the Male gender had more admissions than the female gender in the ER. There was an average waiting time of 35 minutes across all departments, measures should be taken to reduce the wait timein order to avoid complications.
 Also regular reviews of Procedures,trainings and monthly assessment of staff should be done.
